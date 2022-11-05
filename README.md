@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @Rafael-Tomkowski
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="left">Hello there!</h1>
+
+###
+
+<p align="left">My name is Rafael and I'm a DBA and Full Stack developer, from Brazil</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 21/10<br>📚 I'm currently on college for a computer science degree <br>🎯 Goals: Be better than i was yesterday<br>🎲 Fun fact: i suit up for home office!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rafael-tomkowski" height="150" alt="stats graph"  />
