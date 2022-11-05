@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 21/10<br>📚 I'm currently on college for a computer science degree <br>🎯 Goals: Be better than i was yesterday<br>🎲 Fun fact: i suit up for home office!</p>
+<p align="left">✨ Creating bugs since 21/10<br>📚 I'm currently on college for a computer science degree <br>🎯 Goals: Be better than i was yesterday<br>🎲 Fun fact: I suit up for home office!</p>
 
 ###
 
