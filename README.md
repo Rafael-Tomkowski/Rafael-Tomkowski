@@ -14,10 +14,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rafael-tomkowski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
