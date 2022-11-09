@@ -27,12 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
+
 <div align"center">
 <img src ="https://i.imgur.com/e51GUsg.png" height="300" width="290"/>
+<p align="center"> (INTJ) Oii, meu nome é Rafael!
+Pra quem não me conhece, vou falar um pouco sobre mim aqui ;)
+Sou uma pessoa um pouco introvertida quando estou fora do meu ciclo amigos mais íntimos, mas nada que impeça minha comunicação com meus colegas de trabalho; pra ser sincero, sei me enturmar bem rápido!
+Aprecio muito longas conversas ricas em novos conhecimentos, ideias inexploradas e/ou de teor filosófico.
+Criei um gosto pela área da TI nos meus últimos anos de ensino técnico e desde então, busco todo dia me aperfeiçoar, desafiar minhas capacidades e estar sempre aprendendo algo novo.
+Seja qual for a empresa em que eu trabalhar ou área em que for atuar, dado meu devido tempo, os resultados começaram a falar por si só. Tenho muita facilidade para aprender com um pouco de instrução e prática.
+Espero para qualquer ambiente de trabalho sempre agregar bastante conhecimento próprio, para aqueles ao meu lado e dar o meu melhor para gerar valor à empresa.</p>
 </div>
 
