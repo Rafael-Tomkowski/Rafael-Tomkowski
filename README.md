@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
-<div align="left">
+<div display="flex">
 <img src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
 <span> (INTJ) Oii, meu nome é Rafael!
 Pra quem não me conhece, vou falar um pouco sobre mim aqui ;)
