@@ -35,7 +35,7 @@
 
 <div>
   <div>
-    <img src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
+    <img style="float: right;" src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
   </div>
   <div>
     <p> (INTJ) Oii, meu nome é Rafael!
