@@ -15,7 +15,7 @@
 ###
 
 ## Github Stats  
-<div>
+<div align=center>
   <a href="https://github.com/rafael-tomkowski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-tomkowski&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-tomkowski&layout=compact&langs_count=7&theme=solarized-light"/>
