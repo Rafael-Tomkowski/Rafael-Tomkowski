@@ -33,8 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
-<div align"center">
-<img src ="https://i.imgur.com/e51GUsg.png" align="center" height="300" width="290"/>
+<div align="center">
+<img src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
 <p> (INTJ) Oii, meu nome é Rafael!
 Pra quem não me conhece, vou falar um pouco sobre mim aqui ;)
 Sou uma pessoa um pouco introvertida quando estou fora do meu ciclo amigos mais íntimos, mas nada que impeça minha comunicação com meus colegas de trabalho; pra ser sincero, sei me enturmar bem rápido!
