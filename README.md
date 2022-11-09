@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
-<div display="flex">
+<div display="flex" flex-direction="row">
   <div>
     <img src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
   </div>
