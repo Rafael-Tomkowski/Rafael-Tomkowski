@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-    <img style="float: right;" src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
+    
   <p>
     
     (INTJ) Hey, My name is Rafael!
@@ -53,5 +53,6 @@
     
     My mission in the workspace is: always aggregate max value to the company!
   </p>
+  <img style="float: right;" src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
 </div>
 
