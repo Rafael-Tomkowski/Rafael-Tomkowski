@@ -16,7 +16,12 @@
 
 ## Github Stats  
 <div align="center">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-tomkowski&" alt="rafael-tomkowski" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-tomkowski&show_icons=true&locale=en&layout=compact" alt="rafael-tomkowski" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-tomkowski&show_icons=true&locale=en" alt="rafael-tomkowski" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-tomkowski&" alt="rafael-tomkowski" /></p>
+
 </div>  
 
 
