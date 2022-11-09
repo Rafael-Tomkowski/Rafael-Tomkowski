@@ -37,9 +37,8 @@
     <img style="float: right;" src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
   <p>
      (INTJ) Hey, My name is Rafael!
-     For those who don't know me, im am going to talk a little about myself 😉
-      
-    Im more of a introvert person, but try to make friends with anyone when i have the oportunity!
+     For those who don't know me, im am going to talk a little about myself 
+      Im more of a introvert person, but try to make friends with anyone when i have the oportunity!
     
     I aprecciate long conversations rich in new knoledges, inexplored ideas and/or of philosofical context. 
     Im always trying to improve my skills, test my limits and getting to learn something new.
