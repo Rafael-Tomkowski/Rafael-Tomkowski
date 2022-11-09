@@ -44,6 +44,7 @@
     I aprecciate long conversations rich in new knoledges, inexplored ideas and/or of philosofical context. 
     Im always trying to improve my skills, test my limits and getting to learn something new.
     
-    My mission in the workspace is: always aggregate max value to the company!</p>
+    My mission in the workspace is: always aggregate max value to the company!
+  </p>
 </div>
 
