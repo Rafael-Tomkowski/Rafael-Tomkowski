@@ -35,12 +35,11 @@
 
 <div>
     <img style="float: right;" src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
-     (INTJ) Oii, meu nome é Rafael!
-  Pra quem não me conhece, vou falar um pouco sobre mim aqui ;)
-  Sou uma pessoa um pouco introvertida quando estou fora do meu ciclo amigos mais íntimos, mas nada que impeça minha comunicação com meus colegas de trabalho; pra ser sincero, sei me enturmar bem rápido!
-  Aprecio muito longas conversas ricas em novos conhecimentos, ideias inexploradas e/ou de teor filosófico.
-  Criei um gosto pela área da TI nos meus últimos anos de ensino técnico e desde então, busco todo dia me aperfeiçoar, desafiar minhas capacidades e estar sempre aprendendo algo novo.
-  Seja qual for a empresa em que eu trabalhar ou área em que for atuar, dado meu devido tempo, os resultados começaram a falar por si só. Tenho muita facilidade para aprender com um pouco de instrução e prática.
-  Espero para qualquer ambiente de trabalho sempre agregar bastante conhecimento próprio, para aqueles ao meu lado e dar o meu melhor para gerar valor à empresa.
+     (INTJ) Hey, My name is Rafael!
+  For those who don't know me, im am going to talk a little about myself 😉
+Im more of a introvert person, but can relate well with other from time to time, as they came to be friends
+  I aprecciate long conversations rich in new knoledges, inexplored ideas and/or of philosofical context.
+Im always trying to improve my skills, test my limits and getting to learn something new. 
+My mission in the workspace is: always aggregate max value to the company!
 </div>
 
