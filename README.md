@@ -35,11 +35,14 @@
 
 <div>
     <img style="float: right;" src ="https://i.imgur.com/e51GUsg.png"  height="300" width="290"/>
+  <p>
      (INTJ) Hey, My name is Rafael!
-  For those who don't know me, im am going to talk a little about myself 😉
-Im more of a introvert person, but can relate well with other from time to time, as they came to be friends
-  I aprecciate long conversations rich in new knoledges, inexplored ideas and/or of philosofical context.
-Im always trying to improve my skills, test my limits and getting to learn something new. 
-My mission in the workspace is: always aggregate max value to the company!
+     For those who don't know me, im am going to talk a little about myself 😉
+      
+    Im more of a introvert person, but try to make friends with anyone when i have the oportunity!
+    
+    I aprecciate long conversations rich in new knoledges, inexplored ideas and/or of philosofical context. Im always trying to improve my skills, test my limits and getting to learn something new.
+    
+    My mission in the workspace is: always aggregate max value to the company!</p>
 </div>
 
