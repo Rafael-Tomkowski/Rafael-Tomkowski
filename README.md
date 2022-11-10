@@ -16,9 +16,9 @@
 
 ## Github Stats  
 <div align="center">
-  <a href="https://github.com/rafael-tomkowski">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-tomkowski&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-tomkowski&layout=compact&langs_count=7&theme=solarized-light"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 
