@@ -40,7 +40,7 @@
 
 <div align="center">
      
-  <p>
+  <p> 
     
     (INTJ) Hey, My name is Rafael!
     For those who don't know me, im am going to talk a little about myself 
