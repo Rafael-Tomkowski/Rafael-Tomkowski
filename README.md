@@ -14,16 +14,6 @@
 
 ###
 
-## Github Stats  
-<div align="center">
-  <a href="https://github.com/rafael-tomkowski">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-tomkowski&layout=compact&langs_count=7&theme=transparent"/>
-</div>
- 
-
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -38,6 +28,14 @@
 </div>
 
 <div align="center">
+
+###
+  
+## Github Stats  
+<div align="center">
+  <a href="https://github.com/rafael-tomkowski">
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-tomkowski&layout=compact&langs_count=7&theme=transparent"/>
+</div>
      
   <p> 
     
